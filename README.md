@@ -1,16 +1,23 @@
-## Hi there 👋
+# Joseph Gaunt
 
-<!--
-**jrgauntjr/jrgauntjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Joseph Gaunt, a student at Brigham Young University-Idaho interested in Computer Science. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning TypeScript and Erlang
+- My goals are to build more projects and more in depth projects
+- Ask me about Erlang Development
+
+## Technologies and Tools
+
+- Proficient in: Erlang, Python, TypeScript, C++, C#, Android Development, Java, Kotlin, HTML/CSS, JavaScript
+- Skills: Teamwork, Linux, Windows Management
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/joseph-gaunt-bb54671a6/) profile
+- [Email](mailto:joseph.r.gaunt@gmail.com)
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
