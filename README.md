@@ -6,7 +6,7 @@ I'm Joseph Gaunt, a student at Brigham Young University-Idaho interested in Comp
 
 ## About Me
 
-- I'm currently learning TypeScript and Erlang
+- I'm currently learning Elixir and React.js for my senior project
 - My goals are to build more projects and more in depth projects
 - Ask me about Erlang Development
 
